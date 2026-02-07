@@ -4,5 +4,25 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# About Me
+Hi, I am Eric Ward. I'm an 9th grader at a Catholic school in the US. I take all honors classes including:
+  - Biology Honors
+  - Geometry Honors
+  - English 1 Honors
+
+I am interested in computer science, coding and most technology-related things in general. I play a lot of video games, some of my favorites are:
+  - The FINALS
+  - ULTRAKILL
+  - ROUNDS
+  - PolyTrack
+  - Red Dead Redemption 2 (and 1)
+  - Titanfall 2
+  - Counter Strike 2
+  - And many more
+
+I have a handful of projects that I am working on. I tend to move from one project to the next as motivation shifts. Some current projects of mine:
+  - Multiple games made with Godot
+  - Setting up a personal homelab
+  - Learning 3D modeling with Blender
+
+You can view my full list of completed and in-progress projects on this page
