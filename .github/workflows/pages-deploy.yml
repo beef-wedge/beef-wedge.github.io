@@ -46,7 +46,7 @@ jobs:
           bundler-cache: true
 
       - name: Build site
-        run: bundle exec jekyll serve"
+        run: bundle exec jekyll serve
         env:
           JEKYLL_ENV: "production"
 
