@@ -13,6 +13,8 @@ description: "This PC will be for my personal use. My current laptop has been ge
 {: .prompt-info }
 
 ## Overview
+
+![pcFinished](assets/firstPcBuild/finishedPc.jpg){: width="889" height="500" .w-50 .left}
 This is the first PC building experience I've had. I've taken apart older computers with no real value nowadays, but this is my first real start to finish PC build that actually produced a functional computer.
 
 The PC uses a MSI B650-p motherboard, with an AM5 socket. I used a AMD 5 7600x processor with a base clock speed of 4.7 GHz and a maximum boost speed of 5.3 GHz. It can draw a max of 105 watts of power.
