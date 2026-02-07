@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "AM5 (Semi) Budget PC Build - Newer PC build has been released"
+title: "AM5 (Semi) Budget PC Build (Depreciated)"
 
-description: "This PC will be for my personal use. My current laptop has been getting annoyingly slow, and its time for an upgrade"
+description: "My first PC building experience **OUTDATED AS OF JUNE 2026**"
 ---
 
 > #### Note
@@ -14,14 +14,14 @@ description: "This PC will be for my personal use. My current laptop has been ge
 
 ## Overview
 
-![pcFinished](assets/firstPcBuild/finishedPc.jpg){: width="889" height="500" .w-50 .left}
 This is the first PC building experience I've had. I've taken apart older computers with no real value nowadays, but this is my first real start to finish PC build that actually produced a functional computer.
 
-The PC uses a MSI B650-p motherboard, with an AM5 socket. I used a AMD 5 7600x processor with a base clock speed of 4.7 GHz and a maximum boost speed of 5.3 GHz. It can draw a max of 105 watts of power.
+![pcFinished](assets/firstPcBuild/finishedPc.jpg){: width="889" height="500" .w-50 .left}
+The PC uses a MSI B650-p motherboard, with an AM5 socket. I used a AMD 5 7600x processor with a base clock speed of 4.7 GHz and a maximum boost speed of 5.3 GHz. It can draw a max of around 105 watts of power.
 
 My RAM is 32 GB of DDR5 RAM, clocked at 5600MHZ
-
-> In this economy???
+<br><br><br><br>
+> 32GB in this economy???
 {: .prompt-info }
 
 The GPU that I chose was the AMD Radeon RX 570 4GB for my GPU, as I happened to have one laying around and I thought that I would try it before blowing $200-300 on a modern GPU. It has exceeded my expectations for such a low end card, although I do think the CPU is carrying this GPU. I'll probably upgrade it in the future, but for now, it's okay.
@@ -62,5 +62,5 @@ Motherboard: MSI B650-P
 GPU: Radeon RX 570 4GB
 PSU: Thermaltake 700 Watt
 
-> ### PC Build Advice has been moved to the updated PC build and edited
+> #### **PC Build Advice has been moved to the updated PC build and edited**
 {: .prompt-info }
