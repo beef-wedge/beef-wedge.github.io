@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "AM5 (Semi) Budget PC Build (Depreciated)"
+tags: ["PC Build"]
 
-description: "My first PC building experience **OUTDATED AS OF JUNE 2026**"
+description: "My first PC building experience **OUTDATED AS OF JUNE 2025**"
 ---
 
 > #### Note

@@ -20,9 +20,9 @@ I am interested in computer science, coding and most technology-related things i
   - Counter Strike 2
   - And many more
 
+Check out my steam account [here](https://steamcommunity.com/profiles/76561199555448584/)
+
 I have a handful of projects that I am working on. I tend to move from one project to the next as motivation shifts. Some current projects of mine:
   - Multiple games made with Godot
   - Setting up a personal homelab
   - Learning 3D modeling with Blender
-
-You can view my full list of completed and in-progress projects on this page

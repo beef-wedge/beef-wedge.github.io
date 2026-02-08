@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Adventures of Liam"
-tags: ["game"]
+tags: ["Game Development"]
 ---
 
 ## The Adventures of Liam (2024)
