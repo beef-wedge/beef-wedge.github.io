@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "The Adventures of Liam"
-tags: ["Game Development"]
+
+tags: ["Game Development", "Godot"]
+categories: ["Development", "Game"]
+
+description: ["My first game development project, intended as a short learning experiment and a way to get into the Godot software"]
 ---
 
 ## The Adventures of Liam (2024)
