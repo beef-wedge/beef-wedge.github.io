@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "AM5 (Semi) Budget PC Build (Depreciated)"
+
 tags: ["PC Build"]
+categories: ["PC", Build]
 
 description: "My first PC building experience **OUTDATED AS OF JUNE 2025**"
 ---
 
 > #### Note
-> **This is effectively outdated** This writing was taken from my old, non-maintained google site and edited to correct some grammar and small mistakes. I **HIGHLY** suggest going to the newer PC build post instead.
+> **This is effectively outdated.** This writing was taken from my old, non-maintained google site and edited to correct some grammar and small mistakes. I **HIGHLY** suggest going to the [newer](/posts/Second-PC-Build){:target="_blank"} PC build post instead.
 {: .prompt-danger }
 
 > Any blue chunks are new additions, not in the original writing.
