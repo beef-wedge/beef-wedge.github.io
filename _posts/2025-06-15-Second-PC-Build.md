@@ -12,7 +12,7 @@ description: "My second (and most recent) PC build. Designed to fix problems wit
 
 ## Foreword
 ---
-This is my second (and most recent) PC build. The parts list is very similar to the [original build](_posts/2025-01-30-First-PC-Build.md)
+This is my second (and most recent) PC build. The parts list is very similar to the [original build](/posts/First-PC-Build)
 However, there are some changes which will be described later on.
 
 **This post is still being updated with images**
